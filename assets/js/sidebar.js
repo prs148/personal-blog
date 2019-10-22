@@ -3,4 +3,4 @@ $("#sidebarCollapse").on("click", function() {
   $(".wrapper").toggleClass("menuup");
   $(".mobile-header").toggleClass("hide");
 
-})
+});
